@@ -1,0 +1,6 @@
+amp zindabaad
+
+1. install xampp. run with apache + mysql initialized. open localhost/phpmyadmin in browser. import the amp.sql file included in this folder.
+2. copy this entire amp folder to C/xampp/htdocs
+3. in chrome, open localhost/amp/index.php
+4. login using mugda@nadra.com with pass as mugda, or create new user.
